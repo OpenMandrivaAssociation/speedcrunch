@@ -2,7 +2,7 @@ Name:		speedcrunch
 Version:	0.10.1
 Release:	%mkrel 1
 Summary:	Fast, high precision and powerful desktop calculator
-License:	GPLv2
+License:	GPLv2+
 Group:		Sciences/Mathematics
 Source0:	http://speedcrunch.googlecode.com/files/%{name}-%{version}.tar.gz
 URL:		http://speedcrunch.org
@@ -82,5 +82,4 @@ rm -rf %{buildroot}
 %{_bindir}/%{name}
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/icons/hicolor/*/apps/%{name}.png
-%dir %{_datadir}/%{name}
-%{_datadir}/%{name}/*
+%{_datadir}/%{name}
