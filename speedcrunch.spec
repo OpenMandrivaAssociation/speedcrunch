@@ -10,6 +10,7 @@ URL:		http://speedcrunch.org
 BuildRequires:	qt4-devel 
 BuildRequires:	cmake
 BuildRequires:	imagemagick
+BuildRequires:	desktop-file-utils
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 
