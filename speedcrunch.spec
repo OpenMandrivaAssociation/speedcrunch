@@ -84,3 +84,11 @@ rm -rf %{buildroot}
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/icons/hicolor/*/apps/%{name}.png
 %{_datadir}/%{name}
+
+
+%changelog
+* Fri May 15 2009 Jérôme Brenier <incubusss@mandriva.org> 0.10.1-1mdv2010.0
++ Revision: 375874
+- import speedcrunch
+
+
