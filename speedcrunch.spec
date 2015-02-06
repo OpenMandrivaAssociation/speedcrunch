@@ -1,6 +1,6 @@
 Name:		speedcrunch
 Version:	0.10.1
-Release:	%mkrel 1
+Release:	2
 Summary:	Fast, high precision and powerful desktop calculator
 License:	GPLv2+
 Group:		Sciences/Mathematics
