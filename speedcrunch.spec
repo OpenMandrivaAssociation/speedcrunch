@@ -5,7 +5,7 @@ Summary:	Fast, high precision and powerful desktop calculator
 License:	GPLv2+
 Group:		Sciences/Mathematics
 Source0:	http://speedcrunch.googlecode.com/files/%{name}-%{version}.tar.gz
-URL:		http://speedcrunch.org
+URL:		https://speedcrunch.org
 
 BuildRequires:	qt4-devel 
 BuildRequires:	cmake
